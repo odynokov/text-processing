@@ -17,7 +17,7 @@
 
 
 ## TODO
-- different languages supporе
+- different languages support
 - word-occurence-count
 - unique-words
 - repeat words
