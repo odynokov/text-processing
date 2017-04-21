@@ -1,6 +1,7 @@
 # text-processing
 
 [![Build Status](https://travis-ci.org/odynokov/text-processing.svg?branch=master)](https://travis-ci.org/odynokov/text-processing)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f5b9d01062c648e68d4ec48dde495cd3)](https://www.codacy.com/app/odynokov/text-processing?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=odynokov/text-processing&amp;utm_campaign=Badge_Grade)
 
 ## DONE
 - automated readability index
