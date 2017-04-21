@@ -1,5 +1,6 @@
 # text-processing
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f5b9d01062c648e68d4ec48dde495cd3)](https://www.codacy.com/app/odynokov/text-processing?utm_source=github.com&utm_medium=referral&utm_content=odynokov/text-processing&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/odynokov/text-processing.svg?branch=master)](https://travis-ci.org/odynokov/text-processing)
 
 ## DONE
