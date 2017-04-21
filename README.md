@@ -1,5 +1,7 @@
 # text-processing
 
+[![Build Status](https://travis-ci.org/odynokov/text-processing.svg?branch=master)](https://travis-ci.org/odynokov/text-processing)
+
 ## DONE
 - automated readability index
 - average grade level
